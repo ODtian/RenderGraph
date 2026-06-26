@@ -1,0 +1,21 @@
+{
+  "commit": "61dc55b74af6c0cb7b5c93b22c1db0455a034ca6",
+  "created_at": "2026-06-26T07:19:17Z",
+  "files": [
+    {
+      "path": "RenderGraph-source-61dc55b74af6.zip",
+      "size_bytes": 1139014,
+      "sha256": "7a4189caf238fb51da49d0ab005b6d4190990dd7b93c3faa3e5a9d10d132623b"
+    },
+    {
+      "path": "RenderGraph-61dc55b74af6.bundle",
+      "size_bytes": 1127691,
+      "sha256": "e8c739a241efeb252d61ffd35f0efbaef2916c2cd256a472e69e86da9ad74384"
+    },
+    {
+      "path": "CHECKPOINT.md",
+      "size_bytes": 1329,
+      "sha256": "c57755bab291101dc7f5a9c20ef502864703b30da01b693fcf021d3999778ac1"
+    }
+  ]
+}
